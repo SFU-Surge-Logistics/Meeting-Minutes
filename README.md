@@ -23,7 +23,7 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 * Exec proposal rough draft ~ david
 * Github meeting minutes ~ matt
 
-## Quick status on in-flight to-do's - (~2min each)
+## Quick status on in-flight to-do's
 
 TBD
 
