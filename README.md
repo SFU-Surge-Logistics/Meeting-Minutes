@@ -9,7 +9,7 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 [2021 Best Practices WG Meeting Notes](https://docs.google.com/document/d/1sJhaZxG_9Wb2Sg6a4KxqnIvo_to5OkhMkbBk_7UqtEc/edit#)
 
 <details>
- <summary>General Meeting - March 7, 2023</summary>
+ <summary>General Meeting - July 13, 2023</summary>
 
 ## Live Meeting Notes
 
@@ -20,8 +20,6 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 * September 'Build a website' event
 * Pizza fund application
 * Stomhacks 2024 ~ SFSS Exec proposal for overnight
-
-~~We now meet every ...~~ Fill out LettuceMeet https://lettucemeet.com/l/mG01j to decide Sprint Planning + Review weekly meetings
 
 ## Action Items
 
