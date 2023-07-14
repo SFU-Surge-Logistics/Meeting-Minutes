@@ -1,7 +1,3 @@
-# Meeting-Minutes
-
-https://docs.google.com/document/d/1P2N2ZLft5tjkCm9LSlMkaAaNd7hKynmiUZBm6Fy0Mdg/edit
-
 # SFU Surge Logistics Meeting Minutes
 
 Starting in March of 2023 we decided we will move our meeting notes to one rolling gdoc that will be updated at each call. This should avoid document sprawl and let folks have one consistent spot to look at/update our notes.
