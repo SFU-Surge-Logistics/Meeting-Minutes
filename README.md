@@ -28,3 +28,18 @@ Starting in March of 2023 we decided we will move our meeting notes to one rolli
 TBD
 
 </details>
+
+<details>
+ <summary>General Meeting - July 27, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1P2N2ZLft5tjkCm9LSlMkaAaNd7hKynmiUZBm6Fy0Mdg/edit?usp=sharing>
+
+## Overview
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
