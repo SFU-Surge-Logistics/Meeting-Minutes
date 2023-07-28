@@ -38,6 +38,23 @@ TBD
 
 ## Overview
 
+CANCELED
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+<details>
+ <summary>General Meeting - Aug 10, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1P2N2ZLft5tjkCm9LSlMkaAaNd7hKynmiUZBm6Fy0Mdg/edit?usp=sharing>
+
+## Overview
+
 ## Action Items
 
 ## Quick status on in-flight to-do's
