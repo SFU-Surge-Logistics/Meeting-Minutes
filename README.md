@@ -38,11 +38,6 @@ TBD
 
 ## Overview
 
-* Introductions!
-* Road to Stormhacks event types
-* Logistics Team Event
-* Work allocation
-
 ## Action Items
 
 ## Quick status on in-flight to-do's
@@ -58,7 +53,17 @@ TBD
 
 ## Overview
 
+* Introductions!
+* Road to Stormhacks event types
+* Logistics Team Event
+
 ## Action Items
+
+* Workshop form ~ Kaia
+* Contact SAP (chansey) about site visit ~ Monishka 
+* Contact EA (noble tan) about site visit ~ Matthew
+* Shared MLH account ~ Matthew
+* Create new lettucemeet ~ Matthew
 
 ## Quick status on in-flight to-do's
 
