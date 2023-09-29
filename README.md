@@ -38,7 +38,10 @@ TBD
 
 ## Overview
 
-CANCELED
+* Introductions!
+* Road to Stormhacks event types
+* Logistics Team Event
+* Work allocation
 
 ## Action Items
 
@@ -47,16 +50,18 @@ CANCELED
 </details>
 
 <details>
- <summary>General Meeting - Aug 10, 2023</summary>
+ <summary>General Meeting - Sept 28, 2023</summary>
 
 ## Live Meeting Notes
 
-<https://docs.google.com/document/d/1P2N2ZLft5tjkCm9LSlMkaAaNd7hKynmiUZBm6Fy0Mdg/edit?usp=sharing>
+<https://docs.google.com/document/d/1FPw4mq_KQzn7T9-f9fx9NSRznz4B_4vzSYuVNqUt0o4/edit?usp=sharing>
 
 ## Overview
 
 ## Action Items
 
 ## Quick status on in-flight to-do's
+
+TBD
 
 </details>
