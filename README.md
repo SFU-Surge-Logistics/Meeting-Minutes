@@ -70,3 +70,25 @@ TBD
 TBD
 
 </details>
+
+<details>
+ <summary>General Meeting - Oct 6, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1AxenAqPJ0TzsXoM4E-rH6AQuJWPlLPZ8wbtPap_4bUk/edit?usp=sharing>
+
+## Overview
+
+* Introductions!
+* October Road to Stormhacks event
+* Sponsor package
+* Logistics Team Event
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+TBD
+
+</details>
