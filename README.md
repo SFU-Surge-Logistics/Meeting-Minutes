@@ -87,8 +87,16 @@ TBD
 
 ## Action Items
 
+* SFSS Presentation - Maria Z + Daniel
+* Plan Team social - Supreet
+* Review sponsorship package and take note of any changes by EOD Wednesday
+* LettuceMeet to plan Github Workshop date - Matthew
+
 ## Quick status on in-flight to-do's
 
-TBD
+* Contact SAP (chansey) about site visit ~ Monishka
+  * Need email from Triane
+* Contact EA (noble tan) about site visit ~ Matthew
+  * Need email from Danny/Chris
 
 </details>
