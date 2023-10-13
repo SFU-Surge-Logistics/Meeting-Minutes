@@ -110,7 +110,29 @@ https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/
 
 ## Overview
 
+* Update: Team Social (Supreet)
+* Update: SFSS Presentation (Maria Z + Daniel)
+* Update: SAP event (monishka)
+* Github workshop (230pm @ friday, Oct 27)
+* November workshop (230pm @ friday, Nov 10)
+* Mini hackathon (November 18/19)
+  * Funding
+  * Presentations
+  * Room booking
+  * Marketing
+  * Promotional Material
+
 ## Action Items
+
+* contact jeffery about pitch workshop (matt)
+* contact nathan about figma/ui+ux workshop (matt)
+* Contact design about promotional material  (Kylie + Matt)
+* contact design about material for Nov Hackathon workshop presentations (Kaia + Supreet + Matt)
+* contact finance for funding nov workshop + hackathon (Supreet)
+* create survey on slack for team social (supreet)
+* SFSS presentation  (Maria Z + Daniel)
+* Apply for nov workshop + hackathon MLH funding (Maria Y)
+* Book room for Github workshop (Mukhiil OR Matt)
 
 ## Quick status on in-flight to-do's
 
