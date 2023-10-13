@@ -102,7 +102,7 @@ https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/
 </details>
 
 <details>
- <summary>General Meeting - Oct 6, 2023</summary>
+ <summary>General Meeting - Oct 12, 2023</summary>
 
 ## Live Meeting Notes
 
