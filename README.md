@@ -132,7 +132,7 @@ https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/
 * create survey on slack for team social (supreet)
 * SFSS presentation  (Maria Z + Daniel)
 * Apply for nov workshop + hackathon MLH funding (Maria Y)
-* Book room for Github workshop (Mukhiil OR Matt)
+* Book room for Github workshop (Mukhiil)
 
 ## Quick status on in-flight to-do's
 
