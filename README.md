@@ -194,9 +194,9 @@ https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/
 * SFSS Presentation (Maria Z + Daniel)
 * SAP event (monishka)
 * Mini hackathon
- * Name ideas
- * Branding (kaia + supreet)
- * Presentataions (kaia + supreet)
+  * Name ideas
+  * Branding (kaia + supreet)
+  * Presentataions (kaia + supreet)
 
 ## Quick status on in-flight to-do's
 
