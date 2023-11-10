@@ -234,3 +234,33 @@ https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>General Meeting - Nov 2, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/13f_8PaANBtRPM9oARfWaq39POef33YFtkKJNLknDYjg/edit?usp=sharing>
+
+## Overview
+
+* Update: Team Social (Supreet)
+* Update: SFSS Presentation (Maria Z + Daniel)
+* Update: SAP event (monishka)
+* Github workshop (pushed back to December)
+* JourneyHacks (pushed back to January)
+  * Funding
+  * Presentations
+  * Room booking
+  * Marketing
+  * Promotional Material
+
+## Action Items
+
+* Team Social (Supreet)
+* SFSS Presentation (Maria Z + Daniel)
+* SAP event (monishka)
+
+## Quick status on in-flight to-do's
+
+</details>
