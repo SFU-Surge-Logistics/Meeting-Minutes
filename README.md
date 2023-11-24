@@ -264,3 +264,29 @@ https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>General Meeting - Nov 23, 2023</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/11KHCC2y9Y8eEKNcAk5yxEGncE4yh0bqYovfcvB8fGwk/edit?usp=sharing>
+
+## Overview
+
+* Update: SFSS Presentation (Maria Z + Daniel)
+* Update: SAP event (monishka)
+* Github workshop (pushed back to December)
+* JourneyHacks (pushed back to January)
+* StormHacks
+  * Event space
+  * catering/food
+
+## Action Items
+
+* SFSS Presentation (Maria Z + Daniel)
+* SAP event (monishka)
+
+## Quick status on in-flight to-do's
+
+</details>
