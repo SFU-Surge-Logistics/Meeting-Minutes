@@ -77,7 +77,7 @@ TBD
 ## Live Meeting Notes
 
 <https://docs.google.com/document/d/1AxenAqPJ0TzsXoM4E-rH6AQuJWPlLPZ8wbtPap_4bUk/edit?usp=sharing>
-https://docs.google.com/document/d/1nvaPB5dThhbfnmShiuwHkN9vecoM9PWC1eQZdD85diI/edit?usp=sharing
+
 ## Overview
 
 * Introductions!
