@@ -290,3 +290,27 @@ TBD
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>General Meeting - Jan 9, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1wJ5zKo9_IZ8DSn0sVahAo-1EIwbd3K0iMf-vUTI4Vhs/edit?usp=sharing>
+
+## Overview
+
+* Update: SFSS Presentation (Maria Z + Daniel)
+* Update: SAP event (monishka)
+* JourneyHacks ~ Jan 19th, 2024 (11-5pm)
+* 
+
+## Action Items
+
+* Volunteer form (execs + others)
+* find figma workshop host
+* ...
+
+## Quick status on in-flight to-do's
+
+</details>
