@@ -314,3 +314,29 @@ TBD
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>General Meeting - Jan 16, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1mj2pUhScHMxgKDs9izLFNkwyRYV9ImC9qAA01yWU_Os/edit#heading=h.w5hn3iqnpwxd>
+
+## Overview
+
+* Update: SFSS Presentation (Maria Z + Daniel)
+* JourneyHacks on Friday!
+* Schedule, marketing, day of logistics
+
+## Action Items
+
+* check in w/ chris for prizes 
+* create devpost + google form for project submission
+* confirm room booking w/ mukhiil
+* set up meeting + presentation w/ SFSS overnight event
+* create discord
+* email hackers + volunteers/mentors
+
+## Quick status on in-flight to-do's
+
+</details>
