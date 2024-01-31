@@ -366,7 +366,7 @@ TBD
 </details>
 
 <details>
- <summary>General Meeting - Jan 23, 2024</summary>
+ <summary>General Meeting - Jan 30, 2024</summary>
 
 ## Live Meeting Notes
 
