@@ -383,3 +383,22 @@ TBD
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>General Meeting - Feb 13, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/13r-NQDZSLMoUQtCKL6ColKfDvrlkV_4d9UvXd8wP3qc/edit?usp=sharing>
+
+## Overview
+
+* Review of JourneyHacks
+* Preplanning for StormHacks
+  * Food, Venue, Day of schedule 
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
