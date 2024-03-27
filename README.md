@@ -402,3 +402,86 @@ TBD
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>Meeting w/ Nancy - Feb 16, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1lw9M8BcLn-51sILsCxobJK8zhqc839jTnyTfoGvlHZ0/edit >
+
+## Overview
+
+* Room booking
+* Security
+* Overnight Event Planning
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+<details>
+ <summary>General Meeting - Feb 27, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/191-o3MhOBZxuLn6I5A1FciggUycIAJT02rerwMdB64g/edit?usp=sharing>
+
+## Overview
+
+* Preplanning for StormHacks
+  * Food, Venue, Waivers
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+<details>
+ <summary>General Meeting - Mar 5, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/14_Tk4Pl3c0P5w8z3aTjmGXPBQhFN1RphmXB7bOOPUSI/edit?usp=sharing>
+
+## Overview
+
+* Stormhacks
+  * Budget
+  * Day of logistics (side events, fireside chat, etc)
+  * Waivers
+  * Food
+* MLH application 
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+<details>
+ <summary>General Meeting - Mar 5, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/14_Tk4Pl3c0P5w8z3aTjmGXPBQhFN1RphmXB7bOOPUSI/edit?usp=sharing>
+
+## Overview
+
+* Stormhacks
+  * Budget
+  * Day of logistics (side events, fireside chat, etc)
+  * Waivers
+  * Food
+* MLH application 
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+https://docs.google.com/document/d/1mXYUUM3yY_vfDYw1Hnx9mrYv0yaq2w1a8wfHJdl1zFM/edit?usp=sharing
