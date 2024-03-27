@@ -404,7 +404,7 @@ TBD
 </details>
 
 <details>
- <summary>Meeting w/ Nancy - Feb 16, 2024</summary>
+ <summary>Meeting w/ Nancy (FAS event coordinator) - Feb 16, 2024</summary>
 
 ## Live Meeting Notes
 
@@ -521,4 +521,61 @@ TBD
 
 </details>
 
-https://docs.google.com/document/d/1mXYUUM3yY_vfDYw1Hnx9mrYv0yaq2w1a8wfHJdl1zFM/edit?usp=sharing
+<details>
+ <summary>Meeting w/ Maria (MLH event coordinator) - Mar 18, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1mXYUUM3yY_vfDYw1Hnx9mrYv0yaq2w1a8wfHJdl1zFM/edit?usp=sharing>
+
+## Overview
+
+* MLH application approved
+* MLH associated deadlines
+  *  Update SH website --> April 1st
+  *  I demo'd sticker --> March 29th
+  *  Hackathon Icons --> April 1st
+  *  Venue Confirmation --> April 2nd
+* MLH tabling + events
+* follow up meetings w/ maria
+
+</details>
+
+<details>
+ <summary>General Meeting - Mar 19, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/18iUv5RAnljypto0cSfrQNzcOO5pUOlXSPzK-dF_guOs/edit?usp=sharing>
+
+## Overview
+
+* Stormhacks
+  * Day of logistics (side events, fireside chat, etc)
+  * Waivers
+  * Food
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+<details>
+ <summary>General Meeting - Mar 26, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1-I0_eTLuPGyE3TLPaGYnAhba3Egea-m8ZgbxsEowucU/edit?usp=sharing>
+
+## Overview
+
+* Stormhacks
+  * Day of logistics (side events, fireside chat, etc)
+  * Food --> finalized!
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
