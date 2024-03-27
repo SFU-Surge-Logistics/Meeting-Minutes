@@ -441,6 +441,26 @@ TBD
 </details>
 
 <details>
+ <summary>Meeting w/ Simon (CEO of BCJobs) - Mar 4, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1KNSSk4PQYJ0_1oXfNuzWCOExos6fRwNs8rd7xghTe-s/edit?usp=sharing>
+
+## Overview
+
+* Stormhacks
+  * BCJobs sponsorship
+  * fireside chat
+  * other sponsor outreach
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
+
+<details>
  <summary>General Meeting - Mar 5, 2024</summary>
 
 ## Live Meeting Notes
@@ -463,7 +483,24 @@ TBD
 </details>
 
 <details>
- <summary>General Meeting - Mar 5, 2024</summary>
+ <summary>Meeting w/ Ryan (Founder of BCJobs) - Mar 12, 2024</summary>
+
+## Overview
+
+* Post panel engagement?
+  * Panel can stick around afterwords and answer questions
+* Vision for the panel? What will it look like/plans?
+  * AMA, tech panel, bringing projects to life, hackathon project to startup
+  * Utilize ballroom
+* Timeline/planning when the panel will happen
+  * 12pm-7pm
+* Add identify as metis/indigenous on participant sign up forms → pass on info to Ryan
+  * Works with indigenous tech mentorship circle, willing to provide extra resources and connect them with other people
+
+</details>
+
+<details>
+ <summary>General Meeting - Mar 12, 2024</summary>
 
 ## Live Meeting Notes
 
