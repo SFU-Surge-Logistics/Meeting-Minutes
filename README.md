@@ -607,6 +607,7 @@ TBD
 ## Live Meeting Notes
 
 <https://stevespokebar.notion.site/SFU-Catering-Order-May-18-ea6563725bfd4f42912d3471de8f6ae6>
+
 [Backup ~ SFU - Catering Order (May 18).pdf](https://github.com/SFU-Surge-Logistics/Meeting-Minutes/files/14910222/SFU.-.Catering.Order.May.18.pdf)
 
 ## Overview
