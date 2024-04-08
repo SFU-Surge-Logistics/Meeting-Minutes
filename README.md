@@ -579,3 +579,24 @@ TBD
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>General Meeting - Apr 2, 2024</summary>
+
+## Live Meeting Notes
+
+<https://docs.google.com/document/d/1EXS1ljGlrCEMSiAvQqw-B0Q83kgYx3dRjuaq6yHMIPA/edit?usp=sharing>
+
+## Overview
+
+* Stormhacks
+  * Day of logistics (side events, fireside chat, etc)
+  * VD forms
+  * Website Content Writing
+  * Judge/Mentor/Volunteer/Participant forms
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
