@@ -600,3 +600,28 @@ TBD
 ## Quick status on in-flight to-do's
 
 </details>
+
+<details>
+ <summary>Meeting w/ Clement from Steve's Pokebar - Apr 2, 2024</summary>
+
+## Live Meeting Notes
+
+<https://stevespokebar.notion.site/SFU-Catering-Order-May-18-ea6563725bfd4f42912d3471de8f6ae6>
+[Backup ~ SFU - Catering Order (May 18).pdf](https://github.com/SFU-Surge-Logistics/Meeting-Minutes/files/14910222/SFU.-.Catering.Order.May.18.pdf)
+
+## Overview
+
+* Steve's Pokebar Meal + Sponsor Logistics
+  * Inkind Sponsorship
+    * Social media posts
+    * Membership cards
+  * Meal details
+    * Cost
+    * Toppings/style
+    * Preperation + delivery + distribution
+
+## Action Items
+
+## Quick status on in-flight to-do's
+
+</details>
